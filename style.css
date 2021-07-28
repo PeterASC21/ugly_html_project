@@ -1,0 +1,97 @@
+html {
+    background-color: black;
+}
+
+footer {
+    color: white;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+#starters_image_div {
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 410px;
+    padding-top: 4.0px;
+    padding-left: 4.0px;
+    border: 5px solid rgb(59, 59, 156);
+}
+
+.pokemon_images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(250, 246, 3);
+    background-color: rgb(59, 59, 160);
+}
+
+h2 {
+    color: white;
+    font-size: 12pt;
+    font-family: Courier;
+}
+
+h3 {
+    color: white;
+}
+
+.pokemon_description {
+    color: white;
+}
+
+.list {
+    color: white;
+}
+
+#bulbasaur_container {
+    background-color: rgb(99, 212, 99);
+    border-radius: 25px;
+    border: 2px solid greenyellow;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    padding-right: 10px;
+    width: 1230px;
+    height: 100px;
+    border-spacing: 15px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#charmander_container {
+    background-color: rgb(223, 141, 86);
+    border-radius: 25px;
+    border: 2px solid greenyellow;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 1230px;
+    height: 100px;
+    border-spacing: 15px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#squirtle_container {
+    background-color: rgb(102, 195, 226);
+    border-radius: 25px;
+    border: 2px solid greenyellow;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 1230px;
+    height: 100px;
+    border-spacing: 15px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
